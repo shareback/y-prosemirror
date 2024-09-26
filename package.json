@@ -64,8 +64,8 @@
     "yjs": "^13.5.38"
   },
   "devDependencies": {
-    "@rollup/plugin-commonjs": "^21.0.1",
-    "@rollup/plugin-node-resolve": "^13.0.6",
+    "@rollup/plugin-commonjs": "^28.0.0",
+    "@rollup/plugin-node-resolve": "^15.3.0",
     "concurrently": "^4.1.0",
     "http-server": "^0.12.3",
     "jsdom": "^15.1.1",
@@ -75,7 +75,7 @@
     "prosemirror-state": "^1.4.1",
     "prosemirror-transform": "^1.6.0",
     "prosemirror-view": "^1.26.2",
-    "rollup": "^2.59.0",
+    "rollup": "^4.22.4",
     "standard": "^17.0.0",
     "typescript": "^5.4.5",
     "y-protocols": "^1.0.5",
